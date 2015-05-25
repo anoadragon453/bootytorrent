@@ -3,6 +3,7 @@ A Python script to get torrents off the pirate bay. Gets the highest seed ratio 
 
 Dependencies: 
 * Beautiful Soup
+* Requests
 * Transmission
 * Linux System
 
